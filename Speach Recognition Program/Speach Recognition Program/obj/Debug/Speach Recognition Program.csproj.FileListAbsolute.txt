@@ -1,0 +1,29 @@
+C:\Users\Client\Downloads\C# Projects\Speach Recognition Program\Speach Recognition Program\bin\Debug\Speach Recognition Program.exe.config
+C:\Users\Client\Downloads\C# Projects\Speach Recognition Program\Speach Recognition Program\bin\Debug\Speach Recognition Program.exe
+C:\Users\Client\Downloads\C# Projects\Speach Recognition Program\Speach Recognition Program\bin\Debug\Speach Recognition Program.pdb
+C:\Users\Client\Downloads\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.csprojResolveAssemblyReference.cache
+C:\Users\Client\Downloads\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach_Recognition_Program.frmSpeechrecogntion.resources
+C:\Users\Client\Downloads\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach_Recognition_Program.Properties.Resources.resources
+C:\Users\Client\Downloads\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.csproj.GenerateResource.Cache
+C:\Users\Client\Downloads\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.exe
+C:\Users\Client\Downloads\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.pdb
+C:\Users\Client\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\bin\Debug\Speach Recognition Program.exe.config
+C:\Users\Client\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.exe
+C:\Users\Client\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.pdb
+C:\Users\Client\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\bin\Debug\Speach Recognition Program.exe
+C:\Users\Client\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\bin\Debug\Speach Recognition Program.pdb
+C:\Users\Client\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.csprojResolveAssemblyReference.cache
+C:\Users\Client\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach_Recognition_Program.frmSpeechrecogntion.resources
+C:\Users\Client\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach_Recognition_Program.Properties.Resources.resources
+C:\Users\Client\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.csproj.GenerateResource.Cache
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\bin\Debug\Speach Recognition Program.exe.config
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\bin\Debug\Speach Recognition Program.exe
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\bin\Debug\Speach Recognition Program.pdb
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Interop.MDACVer.dll
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.csproj.ResolveComReference.cache
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach_Recognition_Program.frmSpeechrecogntion.resources
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach_Recognition_Program.Properties.Resources.resources
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.csproj.GenerateResource.Cache
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.exe
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.pdb
+C:\Users\OBAKS\Downloads\Programming Projects\C# Projects\Speach Recognition Program\Speach Recognition Program\obj\Debug\Speach Recognition Program.csprojResolveAssemblyReference.cache
